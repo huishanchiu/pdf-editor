@@ -1,0 +1,6 @@
+{
+  // "eslint.options": {
+  //   "configFile": "./eslintrc.json"
+  // }
+  "editor.codeActionsOnSave": { "source.fixAll": false }
+}
